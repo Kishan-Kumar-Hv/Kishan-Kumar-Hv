@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Kishan%20Kumar%20H%20V&fontSize=48&fontAlignY=35&desc=AI%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps&descAlignY=57&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Kishan%20Kumar%20H%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Creating+Intelligent+Automation+Systems+%E2%9A%99%EF%B8%8F;Developing+Scalable+Full-Stack+Products+%F0%9F%9A%80;Exploring+Cloud%2C+DevOps+and+AI+Agents+%E2%98%81%EF%B8%8F;Turning+Real-World+Problems+into+Software+%F0%9F%92%A1" alt="Typing animation"/>
 
